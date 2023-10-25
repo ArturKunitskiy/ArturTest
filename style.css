@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+}
+header {
+    background-color:azure;
+}
+a {
+    color: blueviolet;
+    text-decoration: none;
+}
+#linkMain {
+    color: blue;
+}
+.linkGallery {
+    color: rgb(255, 0, 0);
+}
+
+
